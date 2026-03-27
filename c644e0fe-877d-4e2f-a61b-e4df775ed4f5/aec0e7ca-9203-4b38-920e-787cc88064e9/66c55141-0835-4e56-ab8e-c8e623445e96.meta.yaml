@@ -1,0 +1,15 @@
+iri: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/66c55141-0835-4e56-ab8e-c8e623445e96
+projectIri: 9709e233-6750-4505-888a-1265d3b32068
+types:
+  - https://dataspecer.com/core/model-descriptor/pim-store-wrapper
+userMetadata:
+  documentBaseUrl: https://www.w3.org/ns/odrl/2/ODRL22.ttl
+  label:
+    en: ODRL22
+metadata:
+  creationDate: 2026-03-27T20:52:35.903Z
+  modificationDate: 2026-03-27T22:27:56.311Z
+_version: 1
+_exportVersion: 1
+_exportedAt: 2026-03-27T22:28:02.033Z
+_exportedBy: http://localhost:3100

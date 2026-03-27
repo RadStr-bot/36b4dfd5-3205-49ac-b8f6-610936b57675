@@ -1,0 +1,1310 @@
+identifier: 9w5irk
+version: 1
+type: http://dataspecer.com/resources/local/visual-model
+entities:
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/7c0eead7-c915-434e-b28e-de56cbcd8e1d
+    color: "#ffd670"
+    identifier: mqw3v
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/85c82514-1204-41d4-943b-f5cace268f6f
+    color: "#ff70a6"
+    identifier: ajsg3
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/6acabdcc-9c29-49ce-9150-4e1de58e90a4
+    color: "#b8a3d3"
+    identifier: ziiy1
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/a734a371-357c-437e-bff1-85a19f0697c2
+    color: "#4dc9ab"
+    identifier: l4pzu
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/c1bc7481-659b-4968-9ca8-77394f8a1978
+    color: "#ffd670"
+    identifier: 280vp
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/6426eb92-49d8-4ab5-9eff-bda5da7b42d1
+    color: "#8da266"
+    identifier: 8shoi
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/13bda7e0-672e-4205-a59c-0e6b4540aed6
+    color: "#d4f2d2"
+    identifier: bg53tg
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/2686b1ef-d248-45f7-8458-9b0e23bdcd57
+    color: "#ff70a6"
+    identifier: d8vhi
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/4a242ede-78fb-4fca-aeea-5f6490cf7ec3
+    color: "#4dc9ab"
+    identifier: bjobg
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/0ab855bd-93df-44d5-a408-aa50afa8a594
+    color: "#ffd670"
+    identifier: 507bi
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/ed551054-7468-4b32-94b4-c94e8852b0a1
+    color: "#ff848b"
+    identifier: bm6m2
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/66c55141-0835-4e56-ab8e-c8e623445e96
+    color: "#ffd670"
+    identifier: awyqo
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/a87c12fb-3591-4cd5-9d95-d35979ed0e88
+    color: "#d4f2d2"
+    identifier: 4ax8z
+  - type:
+      - http://dataspecer.com/resources/local/visual-model
+    representedModel: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    color: "#fc440f"
+    identifier: rck8d
+  - identifier: 9w5irk-model-metadata-entity
+    type:
+      - entity-model-type
+    label:
+      en: View
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Catalog
+    position:
+      x: 1400
+      y: 1310
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 4m6vq
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#CatalogRecord
+    position:
+      x: 1100
+      y: 720
+    content:
+      - https://mff-uk.github.io/specifications/dcat-dap/#CatalogRecord.update-modificationDate
+      - https://mff-uk.github.io/specifications/dcat-dap/#CatalogRecord.listingDate
+      - https://mff-uk.github.io/specifications/dcat-dap/#CatalogRecord.description
+      - https://mff-uk.github.io/specifications/dcat-dap/#CatalogRecord.title
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 1uqd2
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Dataset
+    position:
+      x: 1780
+      y: 1760
+      anchored: null
+    content:
+      - https://mff-uk.github.io/specifications/dcat-dap/#Dataset.temporalResolution
+      - https://mff-uk.github.io/specifications/dcat-dap/#Dataset.spatialResolution
+    visualModels: []
+    type:
+      - visual-node
+    identifier: wd60rj
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Resource
+    position:
+      x: 340
+      y: 1220
+    content:
+      - https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.identifier
+      - https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.update-modificationDate
+      - https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.releaseDate
+    visualModels: []
+    type:
+      - visual-node
+    identifier: vgwfo
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Document
+    position:
+      x: 930
+      y: 1200
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: sw7ck
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#rdfs-Resource
+    position:
+      x: 1970
+      y: 1020
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: rk1kd
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#DataService
+    position:
+      x: 1850
+      y: 1450
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 4hfcb
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#RightsStatement
+    position:
+      x: 1650
+      y: 790
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 64z0lg
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Standard
+    position:
+      x: 1560
+      y: 1020
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: khym6
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Kind
+    position:
+      x: 1050
+      y: 80
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 5b5zb
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Agent
+    position:
+      x: 1280
+      y: 50
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: mngpp
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#LinguisticSystem
+    position:
+      x: 680
+      y: 410
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: gk63s
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Class
+    position:
+      x: 1510
+      y: 70
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 6z4j5
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Relationship
+    position:
+      x: 560
+      y: 680
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: cfvr
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Attribution
+    position:
+      x: 570
+      y: 910
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: y1e2
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#LicenseDocument
+    position:
+      x: 1850
+      y: 550
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: g88g5
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Policy
+    position:
+      x: 1750
+      y: 620
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: qxflj
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Distribution
+    position:
+      x: 2120
+      y: 1170
+      anchored: null
+    content:
+      - https://mff-uk.github.io/specifications/dcat-dap/#Distribution.temporalResolution
+      - https://mff-uk.github.io/specifications/dcat-dap/#Distribution.spatialResolution
+      - https://mff-uk.github.io/specifications/dcat-dap/#Distribution.byteSize
+      - https://mff-uk.github.io/specifications/dcat-dap/#Distribution.update-modificationDate
+      - https://mff-uk.github.io/specifications/dcat-dap/#Distribution.releaseDate
+      - https://mff-uk.github.io/specifications/dcat-dap/#Distribution.description
+      - https://mff-uk.github.io/specifications/dcat-dap/#Distribution.title
+    visualModels: []
+    type:
+      - visual-node
+    identifier: ufhlr
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#DatasetSeries
+    position:
+      x: 2180
+      y: 2170
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: wn8aa
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Frequency
+    position:
+      x: 1910
+      y: 2240
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: l3cg2g
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Location
+    position:
+      x: 1250
+      y: 2110
+      anchored: null
+    content:
+      - https://mff-uk.github.io/specifications/dcat-dap/#Location.centroid
+      - https://mff-uk.github.io/specifications/dcat-dap/#Location.boundingBox
+    visualModels: []
+    type:
+      - visual-node
+    identifier: vk1k4
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#PeriodOfTime
+    position:
+      x: 1580
+      y: 2310
+      anchored: null
+    content:
+      - https://mff-uk.github.io/specifications/dcat-dap/#PeriodOfTime.endDate
+      - https://mff-uk.github.io/specifications/dcat-dap/#PeriodOfTime.startDate
+    visualModels: []
+    type:
+      - visual-node
+    identifier: holqx
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Entity
+    position:
+      x: 2370
+      y: 1950
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 2ekf8
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#MediaType
+    position:
+      x: 2620
+      y: 1410
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 0dnefg
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#MediaTypeOrExtent
+    position:
+      x: 2540
+      y: 750
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 9ri3dg
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Concept
+    position:
+      x: 860
+      y: 230
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: nlj7e
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#ConceptScheme
+    position:
+      x: 4720
+      y: 50
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 7wb17
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Person
+    position:
+      x: 3770
+      y: 50
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: swe5l
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Organization
+    position:
+      x: 4220
+      y: 50
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 66ipu
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Role
+    position:
+      x: 50
+      y: 810
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 6obwl
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Instant
+    position:
+      x: 1630
+      y: 2890
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: ljyi3
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Geometry
+    position:
+      x: 860
+      y: 2560
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: mp6ejg
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Checksum
+    position:
+      x: 2740
+      y: 1050
+      anchored: null
+    content:
+      - https://mff-uk.github.io/specifications/dcat-dap/#Checksum.checksumValue
+    visualModels: []
+    type:
+      - visual-node
+    identifier: 5ac7h
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#ChecksumAlgorithm
+    position:
+      x: 3240
+      y: 870
+      anchored: null
+    content: []
+    visualModels: []
+    type:
+      - visual-node
+    identifier: nbuc9
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Catalog.homepage
+    waypoints: []
+    visualSource: 4m6vq
+    visualTarget: sw7ck
+    type:
+      - visual-relationship
+    identifier: 11n55
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Catalog.themeTaxonomy
+    waypoints: []
+    visualSource: 4m6vq
+    visualTarget: rk1kd
+    type:
+      - visual-relationship
+    identifier: sxccp
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Catalog.resource
+    waypoints: []
+    visualSource: 4m6vq
+    visualTarget: vgwfo
+    type:
+      - visual-relationship
+    identifier: 3btk5
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Catalog.dataset
+    waypoints: []
+    visualSource: 4m6vq
+    visualTarget: wd60rj
+    type:
+      - visual-relationship
+    identifier: xfmy4
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Catalog.service
+    waypoints: []
+    visualSource: 4m6vq
+    visualTarget: 4hfcb
+    type:
+      - visual-relationship
+    identifier: j52fvk
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Catalog.catalog
+    waypoints:
+      - x: 1280
+        y: 1320
+        anchored: null
+      - x: 1280
+        y: 1360
+        anchored: null
+    visualSource: 4m6vq
+    visualTarget: 4m6vq
+    type:
+      - visual-relationship
+    identifier: ryikq
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Catalog.record
+    waypoints: []
+    visualSource: 4m6vq
+    visualTarget: 1uqd2
+    type:
+      - visual-relationship
+    identifier: eoh8m
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CatalogRecord.primaryTopic
+    waypoints: []
+    visualSource: 1uqd2
+    visualTarget: vgwfo
+    type:
+      - visual-relationship
+    identifier: 9azxxh
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CatalogRecord.conformsTo
+    waypoints: []
+    visualSource: 1uqd2
+    visualTarget: khym6
+    type:
+      - visual-relationship
+    identifier: yl3sd
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Dataset.distribution
+    waypoints: []
+    visualSource: wd60rj
+    visualTarget: ufhlr
+    type:
+      - visual-relationship
+    identifier: 2vcwt
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Dataset.frequency
+    waypoints: []
+    visualSource: wd60rj
+    visualTarget: l3cg2g
+    type:
+      - visual-relationship
+    identifier: 9o8xa
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Dataset.inSeries
+    waypoints: []
+    visualSource: wd60rj
+    visualTarget: wn8aa
+    type:
+      - visual-relationship
+    identifier: se3f5
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Dataset.spatial-geographicalCoverage
+    waypoints: []
+    visualSource: wd60rj
+    visualTarget: vk1k4
+    type:
+      - visual-relationship
+    identifier: jcj1f
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Dataset.temporalCoverage
+    waypoints: []
+    visualSource: wd60rj
+    visualTarget: holqx
+    type:
+      - visual-relationship
+    identifier: 7xlh7
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Dataset.wasGeneratedBy
+    waypoints: []
+    visualSource: wd60rj
+    visualTarget: 2ekf8
+    type:
+      - visual-relationship
+    identifier: 191ix
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.accessRights
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: 64z0lg
+    type:
+      - visual-relationship
+    identifier: 1tspqg
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.conformsTo
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: khym6
+    type:
+      - visual-relationship
+    identifier: at3un
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.contactPoint
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: 5b5zb
+    type:
+      - visual-relationship
+    identifier: io4kf
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.creator
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: mngpp
+    type:
+      - visual-relationship
+    identifier: m289f
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.language
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: gk63s
+    type:
+      - visual-relationship
+    identifier: wmt1l
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.publisher
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: mngpp
+    type:
+      - visual-relationship
+    identifier: zbenhf
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.type-genre
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: 6z4j5
+    type:
+      - visual-relationship
+    identifier: l781u
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.qualifiedRelation
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: cfvr
+    type:
+      - visual-relationship
+    identifier: sgqn
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.landingPage
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: sw7ck
+    type:
+      - visual-relationship
+    identifier: lgb7t
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.qualifiedAttribution
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: y1e2
+    type:
+      - visual-relationship
+    identifier: nejmt
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.license
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: g88g5
+    type:
+      - visual-relationship
+    identifier: 6ou7x
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.rights
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: 64z0lg
+    type:
+      - visual-relationship
+    identifier: ipuw8
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.hasPolicy
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: qxflj
+    type:
+      - visual-relationship
+    identifier: dxu8x
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.status
+    waypoints: []
+    visualSource: vgwfo
+    visualTarget: nlj7e
+    type:
+      - visual-relationship
+    identifier: izgi6
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#DataService.endpointUrl
+    waypoints: []
+    visualSource: 4hfcb
+    visualTarget: rk1kd
+    type:
+      - visual-relationship
+    identifier: sq686
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#DataService.endpointDescription
+    waypoints: []
+    visualSource: 4hfcb
+    visualTarget: rk1kd
+    type:
+      - visual-relationship
+    identifier: q6mjd
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#DataService.servesDataset
+    waypoints: []
+    visualSource: 4hfcb
+    visualTarget: wd60rj
+    type:
+      - visual-relationship
+    identifier: jrl8g
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Relationship.hadRole
+    waypoints: []
+    visualSource: cfvr
+    visualTarget: 6obwl
+    type:
+      - visual-relationship
+    identifier: az9jo
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Attribution.hadRole
+    waypoints: []
+    visualSource: y1e2
+    visualTarget: 6obwl
+    type:
+      - visual-relationship
+    identifier: 00vrn
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Distribution.license
+    waypoints: []
+    visualSource: ufhlr
+    visualTarget: g88g5
+    type:
+      - visual-relationship
+    identifier: 92l1m
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Distribution.accessRights
+    waypoints: []
+    visualSource: ufhlr
+    visualTarget: 64z0lg
+    type:
+      - visual-relationship
+    identifier: od5x8
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Distribution.rights
+    waypoints: []
+    visualSource: ufhlr
+    visualTarget: 64z0lg
+    type:
+      - visual-relationship
+    identifier: ys002
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Distribution.hasPolicy
+    waypoints: []
+    visualSource: ufhlr
+    visualTarget: qxflj
+    type:
+      - visual-relationship
+    identifier: s4cmbj
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Distribution.accessUrl
+    waypoints: []
+    visualSource: ufhlr
+    visualTarget: rk1kd
+    type:
+      - visual-relationship
+    identifier: z9efi
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Distribution.accessService
+    waypoints: []
+    visualSource: ufhlr
+    visualTarget: 4hfcb
+    type:
+      - visual-relationship
+    identifier: 8ucos
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Distribution.downloadUrl
+    waypoints: []
+    visualSource: ufhlr
+    visualTarget: rk1kd
+    type:
+      - visual-relationship
+    identifier: jtuvq
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Distribution.conformsTo
+    waypoints: []
+    visualSource: ufhlr
+    visualTarget: khym6
+    type:
+      - visual-relationship
+    identifier: ragu
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Distribution.mediaType
+    waypoints: []
+    visualSource: ufhlr
+    visualTarget: 0dnefg
+    type:
+      - visual-relationship
+    identifier: vow0y
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Distribution.format
+    waypoints: []
+    visualSource: ufhlr
+    visualTarget: 9ri3dg
+    type:
+      - visual-relationship
+    identifier: 4gzuc
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Distribution.compressionFormat
+    waypoints: []
+    visualSource: ufhlr
+    visualTarget: 0dnefg
+    type:
+      - visual-relationship
+    identifier: 7ishbf
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Distribution.packagingFormat
+    waypoints: []
+    visualSource: ufhlr
+    visualTarget: 0dnefg
+    type:
+      - visual-relationship
+    identifier: ram2z
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Distribution.checksum
+    waypoints: []
+    visualSource: ufhlr
+    visualTarget: 5ac7h
+    type:
+      - visual-relationship
+    identifier: 39s86
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Location.geometry
+    waypoints: []
+    visualSource: vk1k4
+    visualTarget: mp6ejg
+    type:
+      - visual-relationship
+    identifier: owufx
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#PeriodOfTime.beginning
+    waypoints: []
+    visualSource: holqx
+    visualTarget: ljyi3
+    type:
+      - visual-relationship
+    identifier: bmhzr
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#PeriodOfTime.end
+    waypoints: []
+    visualSource: holqx
+    visualTarget: ljyi3
+    type:
+      - visual-relationship
+    identifier: nv9jdh
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Checksum.algorithm
+    waypoints: []
+    visualSource: 5ac7h
+    visualTarget: nbuc9
+    type:
+      - visual-relationship
+    identifier: v71yf
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Resource
+    position:
+      x: -110
+      y: 1820
+    content:
+      - https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.update-modificationDate
+      - https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.identifier
+    visualModels: []
+    type:
+      - visual-node
+    identifier: vtp3al
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Catalog.resource
+    waypoints: []
+    visualSource: 4m6vq
+    visualTarget: vtp3al
+    type:
+      - visual-relationship
+    identifier: t6adq
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CatalogRecord.primaryTopic
+    waypoints: []
+    visualSource: 1uqd2
+    visualTarget: vtp3al
+    type:
+      - visual-relationship
+    identifier: joiwm
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.accessRights
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: 64z0lg
+    type:
+      - visual-relationship
+    identifier: 6ixdh
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.conformsTo
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: khym6
+    type:
+      - visual-relationship
+    identifier: yp232g
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.contactPoint
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: 5b5zb
+    type:
+      - visual-relationship
+    identifier: fq2ih
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.creator
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: mngpp
+    type:
+      - visual-relationship
+    identifier: hh7z1
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.language
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: gk63s
+    type:
+      - visual-relationship
+    identifier: 711s1
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.publisher
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: mngpp
+    type:
+      - visual-relationship
+    identifier: 9wma3
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.type-genre
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: 6z4j5
+    type:
+      - visual-relationship
+    identifier: v8dh3k
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.qualifiedRelation
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: cfvr
+    type:
+      - visual-relationship
+    identifier: 4e5c6l
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.landingPage
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: sw7ck
+    type:
+      - visual-relationship
+    identifier: 8j7dk
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.qualifiedAttribution
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: y1e2
+    type:
+      - visual-relationship
+    identifier: pq438
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.license
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: g88g5
+    type:
+      - visual-relationship
+    identifier: bo7u5l
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.rights
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: 64z0lg
+    type:
+      - visual-relationship
+    identifier: niy1e
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.hasPolicy
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: qxflj
+    type:
+      - visual-relationship
+    identifier: 3zb4nl
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.status
+    waypoints: []
+    visualSource: vtp3al
+    visualTarget: nlj7e
+    type:
+      - visual-relationship
+    identifier: vqy2i
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Resource
+    position:
+      x: 560
+      y: 1870
+    content:
+      - https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.identifier
+      - https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.update-modificationDate
+    visualModels: []
+    type:
+      - visual-node
+    identifier: h3lsd
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Catalog.resource
+    waypoints: []
+    visualSource: 4m6vq
+    visualTarget: h3lsd
+    type:
+      - visual-relationship
+    identifier: wcueu
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CatalogRecord.primaryTopic
+    waypoints: []
+    visualSource: 1uqd2
+    visualTarget: h3lsd
+    type:
+      - visual-relationship
+    identifier: iqy2t
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.accessRights
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: 64z0lg
+    type:
+      - visual-relationship
+    identifier: rr33m
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.conformsTo
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: khym6
+    type:
+      - visual-relationship
+    identifier: z6p31
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.contactPoint
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: 5b5zb
+    type:
+      - visual-relationship
+    identifier: nievi
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.creator
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: mngpp
+    type:
+      - visual-relationship
+    identifier: lwrep
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.language
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: gk63s
+    type:
+      - visual-relationship
+    identifier: 09awt
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.publisher
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: mngpp
+    type:
+      - visual-relationship
+    identifier: tvsme
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.type-genre
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: 6z4j5
+    type:
+      - visual-relationship
+    identifier: m6z6p
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.qualifiedRelation
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: cfvr
+    type:
+      - visual-relationship
+    identifier: 1d3ae
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.landingPage
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: sw7ck
+    type:
+      - visual-relationship
+    identifier: ws898
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.qualifiedAttribution
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: y1e2
+    type:
+      - visual-relationship
+    identifier: ihqi3
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.license
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: g88g5
+    type:
+      - visual-relationship
+    identifier: g58yx
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.rights
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: 64z0lg
+    type:
+      - visual-relationship
+    identifier: 929igg
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.hasPolicy
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: qxflj
+    type:
+      - visual-relationship
+    identifier: b52vl
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.status
+    waypoints: []
+    visualSource: h3lsd
+    visualTarget: nlj7e
+    type:
+      - visual-relationship
+    identifier: rzft4
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedEntity: https://mff-uk.github.io/specifications/dcat-dap/#Resource
+    position:
+      x: -620
+      y: 1810
+    content:
+      - https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.title
+      - https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.version
+      - https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.update-modificationDate
+      - https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.versionInfo
+      - https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.releaseDate
+      - https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.identifier
+    visualModels: []
+    type:
+      - visual-node
+    identifier: fnrzh
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#Catalog.resource
+    waypoints: []
+    visualSource: 4m6vq
+    visualTarget: fnrzh
+    type:
+      - visual-relationship
+    identifier: dhoa9
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CatalogRecord.primaryTopic
+    waypoints: []
+    visualSource: 1uqd2
+    visualTarget: fnrzh
+    type:
+      - visual-relationship
+    identifier: ea4afk
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.accessRights
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: 64z0lg
+    type:
+      - visual-relationship
+    identifier: xnix4
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.conformsTo
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: khym6
+    type:
+      - visual-relationship
+    identifier: u0wn4
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.contactPoint
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: 5b5zb
+    type:
+      - visual-relationship
+    identifier: r7p51
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.creator
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: mngpp
+    type:
+      - visual-relationship
+    identifier: yelqv
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.language
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: gk63s
+    type:
+      - visual-relationship
+    identifier: 6ldk3
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.publisher
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: mngpp
+    type:
+      - visual-relationship
+    identifier: st0nif
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.type-genre
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: 6z4j5
+    type:
+      - visual-relationship
+    identifier: oomiq
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.qualifiedRelation
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: cfvr
+    type:
+      - visual-relationship
+    identifier: oiq9n
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.landingPage
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: sw7ck
+    type:
+      - visual-relationship
+    identifier: sy7jvj
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.qualifiedAttribution
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: y1e2
+    type:
+      - visual-relationship
+    identifier: nf9hgi
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.license
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: g88g5
+    type:
+      - visual-relationship
+    identifier: m6dp9
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.rights
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: 64z0lg
+    type:
+      - visual-relationship
+    identifier: ewm4r
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.hasPolicy
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: qxflj
+    type:
+      - visual-relationship
+    identifier: akbx2
+  - model: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+    representedRelationship: https://mff-uk.github.io/specifications/dcat-dap/#CataloguedResource.status
+    waypoints: []
+    visualSource: fnrzh
+    visualTarget: nlj7e
+    type:
+      - visual-relationship
+    identifier: cmp66

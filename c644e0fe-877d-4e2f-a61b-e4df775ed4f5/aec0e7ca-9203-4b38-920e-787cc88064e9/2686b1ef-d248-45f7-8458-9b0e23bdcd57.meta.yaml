@@ -1,0 +1,15 @@
+iri: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/2686b1ef-d248-45f7-8458-9b0e23bdcd57
+projectIri: fdd3fa44-3345-4426-bbf3-7269490c73d8
+types:
+  - https://dataspecer.com/core/model-descriptor/pim-store-wrapper
+userMetadata:
+  documentBaseUrl: https://www.w3.org/2006/vcard/ns
+  label:
+    en: ns
+metadata:
+  creationDate: 2026-03-27T20:52:34.931Z
+  modificationDate: 2026-03-27T22:27:56.041Z
+_version: 1
+_exportVersion: 1
+_exportedAt: 2026-03-27T22:28:02.028Z
+_exportedBy: http://localhost:3100

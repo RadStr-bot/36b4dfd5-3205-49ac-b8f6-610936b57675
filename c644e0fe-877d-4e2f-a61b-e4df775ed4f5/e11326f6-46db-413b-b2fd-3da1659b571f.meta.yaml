@@ -1,0 +1,12 @@
+iri: e11326f6-46db-413b-b2fd-3da1659b571f
+projectIri: e11326f6-46db-413b-b2fd-3da1659b571f
+types:
+  - http://dataspecer.com/resources/local/visual-model
+userMetadata: {}
+metadata:
+  creationDate: 2026-03-27T20:52:37.872Z
+  modificationDate: 2026-03-27T22:27:57.475Z
+_version: 1
+_exportVersion: 1
+_exportedAt: 2026-03-27T22:28:02.055Z
+_exportedBy: http://localhost:3100

@@ -1,0 +1,14 @@
+iri: b929d189-5691-4e76-b282-40ba7c13e93b
+projectIri: b929d189-5691-4e76-b282-40ba7c13e93b
+types:
+  - http://dataspecer.com/resources/v1/psm
+userMetadata:
+  label: null
+  description: null
+metadata:
+  creationDate: 2026-03-27T20:52:36.809Z
+  modificationDate: 2026-03-27T22:27:56.869Z
+_version: 1
+_exportVersion: 1
+_exportedAt: 2026-03-27T22:28:02.044Z
+_exportedBy: http://localhost:3100

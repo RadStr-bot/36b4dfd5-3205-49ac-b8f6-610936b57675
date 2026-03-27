@@ -1,0 +1,12 @@
+iri: 9w5irk
+projectIri: 9w5irk
+types:
+  - http://dataspecer.com/resources/local/visual-model
+userMetadata: {}
+metadata:
+  creationDate: 2026-03-27T20:52:36.959Z
+  modificationDate: 2026-03-27T22:27:57.067Z
+_version: 1
+_exportVersion: 1
+_exportedAt: 2026-03-27T22:28:02.046Z
+_exportedBy: http://localhost:3100

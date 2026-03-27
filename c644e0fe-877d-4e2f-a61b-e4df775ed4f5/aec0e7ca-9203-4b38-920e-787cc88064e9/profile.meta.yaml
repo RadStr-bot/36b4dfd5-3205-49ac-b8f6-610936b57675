@@ -1,0 +1,15 @@
+iri: 36b4dfd5-3205-49ac-b8f6-610936b57675/e057b9b9-09ef-43ce-a2f1-3235c25fb87f/2cf82ce0-42a0-420c-b7c8-bcef06e10386/profile
+projectIri: 0166c9c5-65fd-4920-b045-effa13288898
+types:
+  - http://dataspecer.com/resources/local/semantic-model
+userMetadata:
+  label:
+    en: DCAT Default Application Profile
+  documentBaseUrl: https://mff-uk.github.io/specifications/dcat-dap/
+metadata:
+  creationDate: 2026-03-27T20:52:36.239Z
+  modificationDate: 2026-03-27T22:27:56.479Z
+_version: 1
+_exportVersion: 1
+_exportedAt: 2026-03-27T22:28:02.041Z
+_exportedBy: http://localhost:3100

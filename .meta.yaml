@@ -1,0 +1,15 @@
+iri: 36b4dfd5-3205-49ac-b8f6-610936b57675
+projectIri: 36b4dfd5-3205-49ac-b8f6-610936b57675
+types:
+  - http://dataspecer.com/resources/local/package
+userMetadata:
+  label:
+    cs: DCAT-AP hand-made layout
+  description: {}
+metadata:
+  creationDate: 2026-03-27T20:52:31.972Z
+  modificationDate: 2026-03-27T22:27:57.500Z
+_version: 1
+_exportVersion: 1
+_exportedAt: 2026-03-27T22:28:02.056Z
+_exportedBy: http://localhost:3100

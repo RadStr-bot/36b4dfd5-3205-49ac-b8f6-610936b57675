@@ -1,0 +1,11 @@
+operations: []
+resources:
+  b929d189-5691-4e76-b282-40ba7c13e93b:
+    types:
+      - https://ofn.gov.cz/slovník/psm/Schema
+    iri: b929d189-5691-4e76-b282-40ba7c13e93b
+    dataPsmHumanLabel: null
+    dataPsmHumanDescription: null
+    dataPsmTechnicalLabel: null
+    dataPsmRoots: []
+    dataPsmParts: []
